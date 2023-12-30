@@ -1,0 +1,97 @@
+.LOGIN{
+  position: relative;
+  display: block;
+}
+
+.LOGIN .first-block-left{
+  width: 100%;
+}
+
+.LOGIN .first-block-left{
+  width: 100%;
+}
+
+.LOGIN .login-left{
+  width: 505px;
+  position: relative;
+  height: 485px;
+  top:150px;
+}
+.LOGIN .rectangle{
+  background-color: #ffffff;
+  border-radius: 0px 0px 25px 25px;
+  box-shadow: 0px 4px 24px #0000001a;
+}
+.LOGIN .rectangle0{
+  height: 20px;
+  left: 0;
+  top: 96%;
+  width: 100%;
+  position: absolute;
+}
+.LOGIN .rectangle1{
+  height: 480px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  position: absolute;
+}
+.LOGIN .rectangle2{
+  height: 20px;
+  width: 90%;
+  position: absolute;
+  top: 98%;
+  left: 5%;
+}
+.LOGIN .rectangle3{
+  height: 20px;
+  width: 80%;
+  position: absolute;
+  top: 100%;
+  left: 10%;
+}
+.LOGIN .rectangle4{
+  height: 20px;
+width: 70%;
+position: absolute;
+top: 102%;
+  left: 15%;
+}
+
+.LOGIN .login-right{
+  margin: 50px;
+  position: relative;
+  display: block;
+}
+
+
+@media screen and (min-width: 800px) {
+
+  .LOGIN .login-right{
+    margin: 50px;
+    margin-top: 300px;
+    margin-left: 250px;
+    position: relative;
+    display: block;
+  }
+
+}
+
+@media screen and (min-width: 350px) {
+
+  .LOGIN .login-right{
+    margin: 50px;
+    margin-top: 300px;
+    position: relative;
+    display: block;
+  }
+}
+@media screen and (min-width: 1000px) {
+
+  .LOGIN .login-right{
+    margin: 50px;
+    position: relative;
+    display: block;
+  }
+  
+}

@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "sendinblue/api-v3-sdk": "8.x.x",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
